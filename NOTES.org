@@ -1,0 +1,5 @@
+* biohasky
+This is just to mess around to learn how to use haskell and genetic data.
+** Setup
+- Note taken on [2022-01-16 Sun 17:40] \\
+  let's set up all language extensions
